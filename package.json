@@ -1,0 +1,14 @@
+{
+  "name": "responsive-nav-bar",
+  "version": "1.0.0",
+  "description": "Responsive side panel navigation",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server"
+  },
+  "author": "Emil",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^14.1.0"
+  }
+}
