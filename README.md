@@ -4,15 +4,15 @@ HTML/CSS responsive side navigation with svg
 
 ## Desktop view 1
 
-![Desktop 1](./img/Desktop1.png)
+![Desktop 1](/img/Desktop1.png)
 
 ## Desktop view 2
 
-![Desktop 2](./img/Desktop2.png)
+![Desktop 2](/img/Desktop2.png)
 
 ## Mobile view
 
-![Mobile view](./img/Mobile.png)
+![Mobile view](/img/Mobile.png)
 
 ## Installation
 
